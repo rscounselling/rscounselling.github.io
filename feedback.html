@@ -1,0 +1,37 @@
+---
+layout: page
+title: Feedback
+description: Some words from my clients.
+background: '/img/bg-index.jpg'
+male: '/img/male.jpg'
+female: '/img/female.jpg'
+---
+
+
+{% for post in site.categories.feedback %}
+<div class="row">
+  
+  <div class="col-md-7">
+    <a href="#">
+    {% if post.gender == "Male" %}
+    <img class="img-fluid rounded mb-3 mb-md-0" src="{{ page.male | prepend: site.baseurl | replace: '//', '/' }}" alt="">
+    {% endif %}
+
+    {% if post.gender == "Female" %}
+    <img class="img-fluid rounded mb-3 mb-md-0" src="{{ page.female | prepend: site.baseurl | replace: '//', '/' }}" alt="">
+    {% endif %}
+    </a>
+  </div>
+  <div class="col-md-5">
+    <h3>{{ post.gender }}, {{ post.profession }} ({{ post.location }})</h3>
+    <p>"{{ post.excerpt | strip_html | truncatewords: 25 }}"</p>
+
+    <a class="btn btn-primary" href="{{ post.url | prepend: site.baseurl | replace: '//', '/' }}">Read more</a>
+  </div>
+
+</div>
+<hr>
+{% endfor %}
+
+
+

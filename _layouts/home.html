@@ -1,0 +1,92 @@
+---
+layout: default
+title: RS Counselling
+description: A step towards a better you
+background: '/img/bg-contact.jpg'
+---
+
+<!-- Page Header -->
+{% if page.background %}
+<header class="masthead"
+  style="background-image: url('{{ page.background | prepend: site.baseurl | replace: '//', '/' }}')">
+  {% else %}
+  <header class="masthead"></header>
+  {% endif %}
+  <div class="overlay"></div>
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-8 col-md-10 mx-auto">
+        <div class="page-heading">
+          <h1>{{ site.title }}</h1>
+          {% if site.description %}
+          <span class="subheading">{{ site.description }}</span>
+          {% endif %}
+        </div>
+      </div>
+    </div>
+  </div>
+</header>
+
+
+<div class="container">
+
+  <div class="row">
+    <div class="col-md-8 mb-5">
+      <h2>How I can help</h2>
+      <hr />
+      <p>
+        As a qualified Counsellor, my Counselling service provides individuals with a safe and healthy environment to
+        express their feelings, become aware of your values to understand yourself better and develop alternative
+        perspectives on problematic issues you may be experiencing in your life.
+      </p>
+      <p>
+        My Counselling approach aims to utilise genuineness, respect, empathy and an understanding of your problems in
+        order to help support you with your problems better and alleviate you from symptoms of psychological and mental
+        distress.
+      </p>
+      <a class="btn btn-primary btn-lg" href="{{"/contact" | relative_url }}">Let's talk</a>
+    </div>
+
+    <div class="col-md-4 mb-5">
+      <h2>Reach out</h2>
+      <hr />
+      <address>
+        <strong>Reni Sharma</strong>
+        <!-- <br />3481 Melrose Place <br />Beverly Hills, CA 90210
+          <br /> -->
+      </address>
+      <address>
+        <abbr title="Phone">P:</abbr>
+        (+65) 456-7890
+        <br />
+        <abbr title="Email">E:</abbr>
+        <a href="mailto:#">talk@rscounselling.com</a>
+      </address>
+    </div>
+
+  </div>
+
+  <div class="row">
+    <!-- post repeats -->
+    {% for post in site.categories.article limit : 3 %}
+    <div class="col-md-4 mb-5">
+      <div class="card border-0 shadow h-100">
+        <img class="card-img-top" src="{{ post.background | prepend: site.baseurl | replace: '//', '/' }}" alt="" />
+        <div class="card-body">
+          <h4 class="card-title">{{ post.title }}</h4>
+          <p class="card-text">
+            {{ post.excerpt | strip_html | truncatewords: 25 }}
+          </p>
+        </div>
+        <div class="card-footer">
+          <a href="{{ post.url | prepend: site.baseurl | replace: '//', '/' }}" class="btn btn-primary">Read More</a>
+        </div>
+      </div>
+    </div>
+    {% endfor %}
+  </div>
+
+
+
+
+</div>
