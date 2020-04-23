@@ -1,5 +1,6 @@
 ---
 published: true
+category: post
 ---
 ## What is Happiness?
 
