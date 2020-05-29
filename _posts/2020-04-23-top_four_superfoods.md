@@ -1,0 +1,29 @@
+---
+layout: post
+title: "Top 4 Super Foods"
+subtitle: ""
+date: 2020-04-14
+background: '/img/posts/03.jpg'
+background-caption: "Photo by Victor Garcia on Unsplash"
+category: "article"
+---
+## Top 4 Super Foods
+
+Flaxseed- I recently discovered this superfood after my husband introduced it to me. The amazing aspect is that this superfood is loaded with nutrients, protein, fibre and omega-3 fatty acids (besides the fact of it being a rich source of vitamins and minerals). I love adding this to basically anything I eat! Usually, I add this to my oatmeal or my smoothie to make sure I’m getting my daily supply of nutrients (haha). The best bit about flaxseed is that there’s not much of a taste to it (just a bit of a nutty texture) so by mixing it into your food, you won’t even realise that you're loading yourself with goodness.
+
+Chia seeds - These bad boys are yet another superfood I add to my breakfast, meals and desserts. To be honest, chia seeds are more tasteless then flaxseeds and are the tiniest seeds I have ever seen. However, both of these seeds are super beneficial and have multiple health benefits. If you’re looking for the most omega-3s, pick flax seeds. If you’re seeking the highest amount of fibre and bone-strengthening minerals, opt for chia seeds. Personally, I go for both!
+
+Blueberries - I ABSOLUTELY LOVE BLUEBERRIES! My favourite fruit (along with strawberries, raspberries and all the other berries in the world. Blueberries can help with heart health, bone strength, skin health, blood pressure, diabetes management, cancer prevention, and mental health. A cup of blueberries provides 24 percent of a person's recommended daily allowance of vitamin C. So make sure your diet is loaded with this superfood.
+Papaya - This fruit is not only delicious, it's a great source of fibre too, as well as being rich in Vitamin C and antioxidants which prevent cholesterol from building up in your arteries. I love eating this in the morning as it is a great way to boost your immunity, is easy to digest and helps keep me hydrated. So grab a papaya to eat and enjoy!
+
+Nuts and seeds - Did you know that eating an ounce of nuts 4-5 times a week may help reduce the risk of coronary artery disease? Yes, that’s absolutely true, as well as them being packed with a powerful punch of vitamins, minerals and fats. My favourite type of nuts and seeds include sesame seeds, almonds, sunflower seeds, walnuts and pecans. However, there are so many to choose from and you can just add these to your salads, oatmeal or sometimes I love eating a handful of mixed nuts as a mid-afternoon snack.
+
+Acai - WOWOWOW! Like I am addicted to eating acai! I only discovered this superfood when I moved to Singapore and had it within an 'Acai Bowl', (by the way if you haven't tried one of these you literally haven't lived yet!). It's just A-MAZING! So let me clarify if you don’t already know, acai is a type of berry which is packed full of nutrients. Basically, this berry is known for reducing bad cholesterol, containing two essential fatty acids known as omega-6 and omega-9, promoting healthy skin, being ridiculously high in antioxidants, promoting a healthy heart and many more. As I've stated before, if you haven’t had a chance to try this yet, I would highly recommend getting on the acai right now! If you are buying an acai bowl, I tend to research the type of acai the shop tends to use, as sometimes they can add a lot of sugar to the acai which can make it a not so healthy option.
+
+Turmeric - This is known to be one of the most nutritional supplements to take on the planet. Not only does turmeric contain bioactive compounds with powerful medicinal properties, it’s a natural anti-inflammatory compound which boosts brain-derived neurotrophic factor which is linked to improved brain function and a lower risk of brain diseases. So adding a dash of turmeric to your soups, curries, salads or even indulging in a turmeric latte (my favourite way of getting this in) will definitely promote wellness and nutrition in your life.
+
+Avocados - Avocados, well where shall I start...people may get the idea that this fruit is fattening, but in fact, the fruit is loaded with heart-healthy monosaturated fatty acids which are an excellent source of fibre and potassium and can lower both cholesterol and triglyceride levels. Wow, now don’t you all just want to eat avocados? My favourite way of eating this is by mashing it up until it's soft and spreading on my toast with some tomatoes on top. Just delicious!
+
+Yoghurt (you can get plant-based yoghurt if you're a vegan)- My actual number one FAVOURITE food! I could literally live off yoghurt (that's crazy, right), although yoghurt is naturally loaded with prebiotics and good bacteria, not all yoghurt can be healthy as flavoured yoghurts tend to be loaded with added sugars which make them quite unhealthy. Best to stick with either Greek-style plain yoghurt or unsweetened yoghurt, or alternatively if you are a vegan, my favourite vegan yoghurt is coconut which is absolutely mouth-watering!!
+
+Spinach - LOVE, LOVE, LOVE eating spinach. That might sound quite sad as many people might think urgh’ when they hear spinach but it’s actually one of my favourite foods nowadays. It gives me an energetic, alive feeling, I basically add it to everything I eat (even my smoothies) and the best part about it is that it's super nutritious for you- it's rich in vitamins A, C and K, magnesium, iron and manganese. Eating this leafy green veggie may also benefit eye health, reduce oxidative stress and reduce blood pressure levels among other health functions.
